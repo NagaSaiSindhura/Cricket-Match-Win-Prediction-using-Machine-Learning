@@ -56,12 +56,16 @@ o	Correlation Heatmap
 Models Tested:
 
 **Model	Accuracy	Precision	  Recall	 F1   Score**
+
 Linear Regression	 84.69%	     0.33	   0.33	  0.34
+
 Random Forest	     91.60%	     0.92	   0.90	  0.91
+
 XGBoost	           89.07%	     0.89	   0.89	  0.89
+
 Best Model: Random Forest – robust, interpretable, low overfitting risk.
 
-6. Deployment
+5. Deployment
 •	Flask Web App:
 o	Input: Batting Team, Bowling Team, City, Runs Left, Balls Left, Wickets Left, Target.
 o	Output: Win probability & predicted winner.
