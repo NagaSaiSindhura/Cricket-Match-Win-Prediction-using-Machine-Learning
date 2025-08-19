@@ -1,3 +1,6 @@
+**Cricket-Match-Win-Prediction-using-Machine-Learning**
+
+
 **Overview**
 
 This project predicts the outcome of One Day International (ODI) cricket matches, focusing on whether the chasing team will win or lose. Using 20+ years of cricket data (2001–2024) from cricsheet.org, the system applies machine learning models—primarily Random Forest, along with XGBoost and Linear Regression—to analyze match conditions, team performance, and in-game variables. A Flask-based web application allows users to input real-time match data and get instant win predictions, providing strategic insights for analysts, teams, and cricket fans.
